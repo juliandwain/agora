@@ -3,8 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+stats/__pycache__
+
 # Jupyter Notebook
+analysis/.ipynb_checkpoints
 stats/.ipynb_checkpoints
+
 
 # VS Code settings
 .vscode/
