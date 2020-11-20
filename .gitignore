@@ -13,3 +13,6 @@ stats/.ipynb_checkpoints
 # VS Code settings
 .vscode/
 
+# ignore .env files
+web/data/.env
+
