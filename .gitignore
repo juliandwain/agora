@@ -14,5 +14,5 @@ stats/.ipynb_checkpoints
 .vscode/
 
 # ignore .env files
-web/data/.env
+web/data/
 
