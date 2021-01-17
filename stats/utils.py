@@ -12,7 +12,10 @@ __all__ = [
 # ------------------------------------------------------------------------------------------------------------
 # helper functions for the percolation module
 
-def get_neighbors(current: tuple, distance: Union[int, float], x_limit: tuple, y_limit: tuple) -> np.ndarray:
+def get_neighbors(current: tuple,
+                  distance: Union[int, float],
+                  x_limit: tuple,
+                  y_limit: tuple) -> np.ndarray:
     """Get all direct neighbors of an infected person.
 
     Parameters
