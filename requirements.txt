@@ -43,7 +43,7 @@ soupsieve==2.0.1
 toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 tornado @ file:///tmp/build/80754af9/tornado_1606942300299/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
-urllib3==1.26.2
+urllib3==1.26.3
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 wrapt==1.11.2
